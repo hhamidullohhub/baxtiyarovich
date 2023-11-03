@@ -1,0 +1,56 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ul,li {
+    list-style: none;
+}
+
+a {
+    /* list-style: none; */
+    text-decoration: none;
+}
+
+body {
+    font-family: sans-serif;
+    background-color: black;
+    /* background-color: rgb(27, 2, 57); */
+}
+
+.container {
+    width: 1140px;
+    height: 0px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+}
+
+.axi {
+    color: white;
+    margin-top: 20px;
+    font-size: 50px;
+}
+
+.img-axi {
+    border-radius: 50%;
+}
+
+.telegram {
+    font-size: 35px;
+    text-transform: capitalize;
+    color: rgb(66, 64, 159)
+}
+
+.instagram {
+    font-size: 35px;
+    text-transform: capitalize;
+    color: rgb(135, 26, 26);
+    margin-left: 25px;
+}
+
+.links {
+    margin-top: 100px;
+}
