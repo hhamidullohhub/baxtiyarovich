@@ -31,11 +31,12 @@ body {
 .axi {
     color: white;
     margin-top: 20px;
-    font-size: 50px;
+    font-size: 30px;
 }
 
 .img-axi {
     border-radius: 50%;
+    width: 300px;
 }
 
 .telegram {
@@ -52,5 +53,5 @@ body {
 }
 
 .links {
-    margin-top: 100px;
+    margin-top: 50px;
 }
